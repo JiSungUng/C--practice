@@ -10,6 +10,10 @@ namespace first
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("글자");
+            //Ctrl+shift+b
+            //실행 ctrl+F5
         }
     }
 }
