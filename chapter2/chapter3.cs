@@ -26,6 +26,8 @@ namespace chapter2
 {
     internal class Chapter3
     {
-
+        /*
+         Test
+        */
     }
 }
