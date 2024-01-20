@@ -11,7 +11,7 @@ namespace chapter2
     {
 
         //1차원배열
-        /*  int[] a = { 1, 2, 3, 4 };
+          int[] a = { 1, 2, 3, 4 };
           string[] vars = { "사과", "바나나", "사과" };
 
           Console.WriteLine(vars[1]);
@@ -25,7 +25,7 @@ namespace chapter2
         ab[1]=new int [3]; // 두번째 열의 크기는 3
         ab[2]=new int [2]; // 세번째 열의 크기는 2
 
-}*/
+}
     }
 }
 
