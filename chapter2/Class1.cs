@@ -8,5 +8,6 @@ namespace chapter2
 {
     internal class Class1
     {
+        //TEST
     }
 }
